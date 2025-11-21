@@ -3,11 +3,11 @@ Podcast criado para o Bootcamp: Fundamentos de IA Generativa
 
 Este repositório contém o podcast desenvolvido para o curso da DIO.
 
-🎧 **Nome do Episódio:*O Cavaleiro da Tela — Sombras, Luzes e Cinema*
+🎧 **Nome do Episódio: O Cavaleiro da Tela — Sombras, Luzes e Cinema
 
-📝 **Tema:*Cultura geek* 
+📝 **Tema: Cultura geek
 
-👤 **Criado por:*Felipe Gomes*
+👤 **Criado por: Felipe Gomes
 
 ---
 
